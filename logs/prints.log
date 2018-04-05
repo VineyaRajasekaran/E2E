@@ -1,0 +1,25 @@
+13:35:12.941 [main] INFO  Framework.HomePage - Reached child Window
+13:35:28.886 [main] INFO  Framework.HomePage - navigation page
+13:35:46.988 [main] INFO  Framework.HomePage - verify title
+13:37:36.882 [main] INFO  Framework.HomePage - logged into browser
+13:37:43.233 [main] INFO  Framework.HomePage - Restricted user
+13:37:44.578 [main] INFO  Framework.HomePage - Reached child Window
+13:37:58.686 [main] INFO  Framework.HomePage - logged into browser
+13:38:03.057 [main] INFO  Framework.HomePage - good user
+13:38:05.201 [main] INFO  Framework.HomePage - Reached child Window
+13:38:18.341 [main] INFO  Framework.HomePage - logged into browser
+13:38:24.620 [main] INFO  Framework.HomePage - normal user
+13:38:26.125 [main] INFO  Framework.HomePage - Reached child Window
+13:38:41.920 [main] INFO  Framework.HomePage - navigation page
+13:39:00.511 [main] INFO  Framework.HomePage - verify title
+22:36:32.151 [main] INFO  Framework.HomePage - logged into browser
+22:36:37.208 [main] INFO  Framework.HomePage - Restricted user
+22:36:38.784 [main] INFO  Framework.HomePage - Reached child Window
+22:36:51.785 [main] INFO  Framework.HomePage - logged into browser
+22:37:04.233 [main] INFO  Framework.HomePage - good user
+22:37:08.020 [main] INFO  Framework.HomePage - Reached child Window
+22:37:22.234 [main] INFO  Framework.HomePage - logged into browser
+22:37:27.595 [main] INFO  Framework.HomePage - normal user
+22:37:29.145 [main] INFO  Framework.HomePage - Reached child Window
+22:37:44.729 [main] INFO  Framework.HomePage - navigation page
+22:38:02.642 [main] INFO  Framework.HomePage - verify title

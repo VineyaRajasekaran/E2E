@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="Framework.listeners" />
+		<listener class-name="resources.ExtentReporterNG" />
+	</listeners>
+	<test thread-count="5" name="User Login Credentials">
+		<classes>
+			<class name="Framework.HomePage" />
+		</classes>
+	</test>
+	<test thread-count="5" name="NavigationBar">
+		<classes>
+			<class name="Framework.NavigateBar" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Validating Title">
+		<classes>
+			<class name="Framework.Validate" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

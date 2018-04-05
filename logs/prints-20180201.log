@@ -1,0 +1,8 @@
+13:33:51.051 [main] INFO  Framework.HomePage - logged into browser
+13:34:11.522 [main] INFO  Framework.HomePage - Restricted user
+13:34:13.665 [main] INFO  Framework.HomePage - Reached child Window
+13:34:27.331 [main] INFO  Framework.HomePage - logged into browser
+13:34:33.248 [main] INFO  Framework.HomePage - good user
+13:34:34.659 [main] INFO  Framework.HomePage - Reached child Window
+13:34:48.523 [main] INFO  Framework.HomePage - logged into browser
+13:35:11.198 [main] INFO  Framework.HomePage - normal user
