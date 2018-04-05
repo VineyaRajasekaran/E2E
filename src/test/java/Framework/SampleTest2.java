@@ -29,5 +29,11 @@ public class SampleTest2 {
 		
 		return data;
 	}
+	
+	@Test
+	public void testGit()
+	{
+		System.out.println("Git success");
+	}
 
 }
