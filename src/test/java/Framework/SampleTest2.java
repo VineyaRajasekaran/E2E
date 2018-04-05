@@ -35,5 +35,12 @@ public class SampleTest2 {
 	{
 		System.out.println("Git success");
 	}
+	
+	
+	@Test
+	public void testGit2develop()
+	{
+		System.out.println("Git develop branch success");
+	}
 
 }
