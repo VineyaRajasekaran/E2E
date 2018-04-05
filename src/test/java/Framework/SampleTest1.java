@@ -42,4 +42,11 @@ public class SampleTest1 {
 		driver.close();
 	}
 
+	
+	@Test
+	public void testGitSampleteest()
+	{
+		System.out.println("Git sample success");
+	}
+
 }
